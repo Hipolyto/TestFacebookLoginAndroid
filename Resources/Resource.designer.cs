@@ -2077,6 +2077,9 @@ namespace testFbLogin
 			// aapt resource value: 0x7f0a0085
 			public const int ImgPro = 2131361925;
 			
+			// aapt resource value: 0x7f0a0089
+			public const int LoginButton = 2131361929;
+			
 			// aapt resource value: 0x7f0a0086
 			public const int TxtFirstname = 2131361926;
 			
@@ -2086,8 +2089,8 @@ namespace testFbLogin
 			// aapt resource value: 0x7f0a0088
 			public const int TxtName = 2131361928;
 			
-			// aapt resource value: 0x7f0a008d
-			public const int action0 = 2131361933;
+			// aapt resource value: 0x7f0a008e
+			public const int action0 = 2131361934;
 			
 			// aapt resource value: 0x7f0a005c
 			public const int action_bar = 2131361884;
@@ -2110,17 +2113,17 @@ namespace testFbLogin
 			// aapt resource value: 0x7f0a0039
 			public const int action_bar_title = 2131361849;
 			
-			// aapt resource value: 0x7f0a008a
-			public const int action_container = 2131361930;
+			// aapt resource value: 0x7f0a008b
+			public const int action_container = 2131361931;
 			
 			// aapt resource value: 0x7f0a005d
 			public const int action_context_bar = 2131361885;
 			
-			// aapt resource value: 0x7f0a0091
-			public const int action_divider = 2131361937;
+			// aapt resource value: 0x7f0a0092
+			public const int action_divider = 2131361938;
 			
-			// aapt resource value: 0x7f0a008b
-			public const int action_image = 2131361931;
+			// aapt resource value: 0x7f0a008c
+			public const int action_image = 2131361932;
 			
 			// aapt resource value: 0x7f0a0003
 			public const int action_menu_divider = 2131361795;
@@ -2137,11 +2140,11 @@ namespace testFbLogin
 			// aapt resource value: 0x7f0a003b
 			public const int action_mode_close_button = 2131361851;
 			
-			// aapt resource value: 0x7f0a008c
-			public const int action_text = 2131361932;
+			// aapt resource value: 0x7f0a008d
+			public const int action_text = 2131361933;
 			
-			// aapt resource value: 0x7f0a0099
-			public const int actions = 2131361945;
+			// aapt resource value: 0x7f0a009a
+			public const int actions = 2131361946;
 			
 			// aapt resource value: 0x7f0a003c
 			public const int activity_chooser_view_content = 2131361852;
@@ -2179,8 +2182,8 @@ namespace testFbLogin
 			// aapt resource value: 0x7f0a0043
 			public const int buttonPanel = 2131361859;
 			
-			// aapt resource value: 0x7f0a008e
-			public const int cancel_action = 2131361934;
+			// aapt resource value: 0x7f0a008f
+			public const int cancel_action = 2131361935;
 			
 			// aapt resource value: 0x7f0a006f
 			public const int cancel_button = 2131361903;
@@ -2191,8 +2194,8 @@ namespace testFbLogin
 			// aapt resource value: 0x7f0a0053
 			public const int checkbox = 2131361875;
 			
-			// aapt resource value: 0x7f0a0095
-			public const int chronometer = 2131361941;
+			// aapt resource value: 0x7f0a0096
+			public const int chronometer = 2131361942;
 			
 			// aapt resource value: 0x7f0a0032
 			public const int collapseActionView = 2131361842;
@@ -2260,8 +2263,8 @@ namespace testFbLogin
 			// aapt resource value: 0x7f0a002f
 			public const int end = 2131361839;
 			
-			// aapt resource value: 0x7f0a009f
-			public const int end_padder = 2131361951;
+			// aapt resource value: 0x7f0a00a0
+			public const int end_padder = 2131361952;
 			
 			// aapt resource value: 0x7f0a003d
 			public const int expand_activities_button = 2131361853;
@@ -2293,8 +2296,8 @@ namespace testFbLogin
 			// aapt resource value: 0x7f0a0041
 			public const int icon = 2131361857;
 			
-			// aapt resource value: 0x7f0a009a
-			public const int icon_group = 2131361946;
+			// aapt resource value: 0x7f0a009b
+			public const int icon_group = 2131361947;
 			
 			// aapt resource value: 0x7f0a0033
 			public const int ifRoom = 2131361843;
@@ -2302,8 +2305,8 @@ namespace testFbLogin
 			// aapt resource value: 0x7f0a003e
 			public const int image = 2131361854;
 			
-			// aapt resource value: 0x7f0a0096
-			public const int info = 2131361942;
+			// aapt resource value: 0x7f0a0097
+			public const int info = 2131361943;
 			
 			// aapt resource value: 0x7f0a0014
 			public const int inline = 2131361812;
@@ -2317,11 +2320,11 @@ namespace testFbLogin
 			// aapt resource value: 0x7f0a0017
 			public const int left = 2131361815;
 			
-			// aapt resource value: 0x7f0a009b
-			public const int line1 = 2131361947;
+			// aapt resource value: 0x7f0a009c
+			public const int line1 = 2131361948;
 			
-			// aapt resource value: 0x7f0a009d
-			public const int line3 = 2131361949;
+			// aapt resource value: 0x7f0a009e
+			public const int line3 = 2131361950;
 			
 			// aapt resource value: 0x7f0a001f
 			public const int listMode = 2131361823;
@@ -2329,14 +2332,14 @@ namespace testFbLogin
 			// aapt resource value: 0x7f0a0040
 			public const int list_item = 2131361856;
 			
-			// aapt resource value: 0x7f0a0090
-			public const int media_actions = 2131361936;
+			// aapt resource value: 0x7f0a0091
+			public const int media_actions = 2131361937;
 			
 			// aapt resource value: 0x7f0a007e
 			public const int mediacontroller_progress = 2131361918;
 			
-			// aapt resource value: 0x7f0a0089
-			public const int messenger_send_button = 2131361929;
+			// aapt resource value: 0x7f0a008a
+			public const int messenger_send_button = 2131361930;
 			
 			// aapt resource value: 0x7f0a0030
 			public const int middle = 2131361840;
@@ -2359,14 +2362,14 @@ namespace testFbLogin
 			// aapt resource value: 0x7f0a001d
 			public const int normal = 2131361821;
 			
-			// aapt resource value: 0x7f0a0098
-			public const int notification_background = 2131361944;
+			// aapt resource value: 0x7f0a0099
+			public const int notification_background = 2131361945;
+			
+			// aapt resource value: 0x7f0a0094
+			public const int notification_main_column = 2131361940;
 			
 			// aapt resource value: 0x7f0a0093
-			public const int notification_main_column = 2131361939;
-			
-			// aapt resource value: 0x7f0a0092
-			public const int notification_main_column_container = 2131361938;
+			public const int notification_main_column_container = 2131361939;
 			
 			// aapt resource value: 0x7f0a000d
 			public const int open_graph = 2131361805;
@@ -2401,11 +2404,11 @@ namespace testFbLogin
 			// aapt resource value: 0x7f0a0018
 			public const int right = 2131361816;
 			
-			// aapt resource value: 0x7f0a0097
-			public const int right_icon = 2131361943;
+			// aapt resource value: 0x7f0a0098
+			public const int right_icon = 2131361944;
 			
-			// aapt resource value: 0x7f0a0094
-			public const int right_side = 2131361940;
+			// aapt resource value: 0x7f0a0095
+			public const int right_side = 2131361941;
 			
 			// aapt resource value: 0x7f0a0029
 			public const int screen = 2131361833;
@@ -2488,8 +2491,8 @@ namespace testFbLogin
 			// aapt resource value: 0x7f0a0012
 			public const int standard = 2131361810;
 			
-			// aapt resource value: 0x7f0a008f
-			public const int status_bar_latest_event_content = 2131361935;
+			// aapt resource value: 0x7f0a0090
+			public const int status_bar_latest_event_content = 2131361936;
 			
 			// aapt resource value: 0x7f0a0056
 			public const int submenuarrow = 2131361878;
@@ -2503,11 +2506,11 @@ namespace testFbLogin
 			// aapt resource value: 0x7f0a0020
 			public const int tabMode = 2131361824;
 			
-			// aapt resource value: 0x7f0a009e
-			public const int text = 2131361950;
+			// aapt resource value: 0x7f0a009f
+			public const int text = 2131361951;
 			
-			// aapt resource value: 0x7f0a009c
-			public const int text2 = 2131361948;
+			// aapt resource value: 0x7f0a009d
+			public const int text2 = 2131361949;
 			
 			// aapt resource value: 0x7f0a004a
 			public const int textSpacerNoButtons = 2131361866;

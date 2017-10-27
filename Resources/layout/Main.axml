@@ -42,4 +42,11 @@
         android:layout_centerHorizontal="true"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="10dp" />
+    <Button
+        android:id="@+id/LoginButton"
+        android:text="Login Facebook"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal" />
 </LinearLayout>

@@ -1,26 +1,16 @@
 ﻿<Properties StartupConfiguration="{A6FD98E5-73FA-4977-AF14-0E0408E2111C}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="MainActivity.cs">
     <Files>
-      <File FileName="MainActivity.cs" Line="44" Column="14" />
+      <File FileName="MainActivity.cs" Line="127" Column="50" />
+      <File FileName="MainApplication.cs" Line="40" Column="89" />
+      <File FileName="Resources/values/Strings.xml" Line="8" Column="34" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="testFbLogin" expanded="True">
-            <Node name="testFbLogin" expanded="True">
-              <Node name="Packages" expanded="True" />
-              <Node name="MainActivity.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.testFbLogin AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.AVD_for_Nexus_5_by_Google" />
+  <MonoDevelop.Ide.ItemProperties.testFbLogin AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.TA890048O7" />
   <MultiItemStartupConfigurations />
 </Properties>
